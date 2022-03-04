@@ -55,12 +55,12 @@ input[type=password] {
 <center>
 <header>
 	<pre>
- .88b  d88. d8888b.         d8888b.  .d8b.  d8888b. db   dD   .d8888. db   db d88888b db      db      
-88'YbdP`88 88  `8D         88  `8D d8' `8b 88  `8D 88 ,8P'   88'  YP 88   88 88'     88      88      
-88  88  88 88oobY'         88   88 88ooo88 88oobY' 88,8P     `8bo.   88ooo88 88ooooo 88      88      
-88  88  88 88`8b           88   88 88~~~88 88`8b   88`8b       `Y8b. 88~~~88 88~~~~~ 88      88      
-88  88  88 88 `88.         88  .8D 88   88 88 `88. 88 `88.   db   8D 88   88 88.     88booo. 88booo. 
-YP  YP  YP 88   YD C88888D Y8888D' YP   YP 88   YD YP   YD   `8888Y' YP   YP Y88888P Y88888P Y88888P 
+.88b  d88. d8888b.         d8888b.  .d8b.  d8888b. db   dD           .d8888. db   db d88888b db      db      
+88'YbdP`88 88  `8D         88  `8D d8' `8b 88  `8D 88 ,8P'           88'  YP 88   88 88'     88      88      
+88  88  88 88oobY'         88   88 88ooo88 88oobY' 88,8P             `8bo.   88ooo88 88ooooo 88      88      
+88  88  88 88`8b           88   88 88~~~88 88`8b   88`8b               `Y8b. 88~~~88 88~~~~~ 88      88      
+88  88  88 88 `88.         88  .8D 88   88 88 `88. 88 `88.           db   8D 88   88 88.     88booo. 88booo. 
+YP  YP  YP 88   YD C88888D Y8888D' YP   YP 88   YD YP   YD           `8888Y' YP   YP Y88888P Y88888P Y88888P 
                                                                                                      
                                                                                                      
 	</pre>
